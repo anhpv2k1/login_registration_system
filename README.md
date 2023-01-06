@@ -1,2 +1,5 @@
-# login_registration_system
-simple login sign_up system using nodejs mysql
+# login-registration-system-with-authentication-nodejs-express-mysql
+In this repoistory have login and registration system using nodejs, express and also used mysql for database.
+express-session and validation also used in this project.
+
+
